@@ -1,14 +1,14 @@
 # Google-dev-scholarship_Mockup-Project_Humans-VS-Machines
-##Translating a mockup to HTML##
+##Translating a mockup to HTML
 
 This project is  part of the Google Developer Challenge Scholarship: Front-End Web Dev. On the specific lesson we were given an image (Humans VS Machines.jpeg) and had to construct a webpage that looked identical to that specific image. Below is the description and requests of the project.
 
-##Project Overview##
+##Project Overview
 I'll be giving you a mockup of a website (and a copy of the text in it). It's going to be your job to recreate it with HTML.
 
 You're going to see some formatting you haven't encountered before, so you'll need to use a resource, like the MDN element reference, to research new elements.
 
-##Project Instructions##
+##Project Instructions
 Review the Article to Mockup Project Rubric.
 
 Download and unzip mockup-to-article.zip in the Supporting Materials section, below. You'll find index.html, the article mockup image (blog-mockup.pdf) and a file called reflections.txt inside.
